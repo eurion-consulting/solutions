@@ -22,13 +22,14 @@
       },
       "additionalSetColors": [
         "#f17d0f",
-        "#d2dde4"
+        "#d2dde4",
+        "#212121"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -140,10 +141,17 @@
             ".lead": {
               "color": "#93a3a7",
               "font-style": "italic"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "84px"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": true,
             "buttonAlign": "right",
@@ -159,12 +167,12 @@
             },
             "overlay": true,
             "overlayColor": "#333333",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.4"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Product development<br>Outsource services",
+          "title": "Eurion Solutions",
           "text": "<b>GENUINE DEVELOPMENT</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"assets/files/Business%20Concept%20Outline.pdf\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -472,7 +480,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "tabs": "3",
+            "tabs": "4",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -492,14 +500,14 @@
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Where are we located?</a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Working On-Site?</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-10\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How to Hire?</a>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-10\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How to Hire team On Demand?</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFourtoggle1-10\" aria-expanded=\"true\" aria-controls=\"collapseFour\">How to apply for a Job?</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text1": "<p>Eurion Solutions is 100% remote software company registered in Bulgaria / EU. <br>We have no dedicated office - all our employees and contractors are working remotely.&nbsp;</p>",
-          "text2": "<p>Upon customer request and team posibility to travel, we might partially work from customer office location.&nbsp;</p>",
-          "text3": "<p>Because, because:<br>* <strong>one</strong><br>* <strong>two&nbsp;</strong>- text, text<br>* <strong>three</strong> text</p>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text2": "<p>Upon customer request and team posibility to travel, we could work from customer location as well.&nbsp;</p>",
+          "text3": "<p>You can lookup our available team members in TRAD system under Eurion Solutions organization.<br>Or make direct inquery through the contact form above.</p>",
+          "text4": "<p>If you are remote jos seeker you are welcome to sign up for free in www.officemisfits.com<br>Or to send your cover letter and desired position in the contact form above.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "alias": "colorm/components",
@@ -918,11 +926,11 @@
             "showTitle": false,
             "showSubtitle": false,
             "rows": "2",
-            "bgItem1": "#f5f5f5",
-            "bgItem2": "#f17d0f",
-            "bgItem3": "#dddddd",
+            "bgItem1": "#d2dde4",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
             "bgItem4": "#34495e",
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
@@ -939,17 +947,17 @@
           },
           "title": "Our Team",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "Daniel",
-          "person2": "Victoria - public?",
-          "person3": "Mina",
-          "person4": "Krasi",
-          "subtitle1": "Founder &amp; CEO",
-          "subtitle2": "Human Resources",
-          "subtitle3": "Graphical Designer",
-          "subtitle4": "Technical Support",
-          "caption1": "Leadership",
-          "caption2": "Psychological assessments, candidate and employee strengths recognition and motivatation.&nbsp;",
-          "caption3": "Graphical designer",
+          "person1": "<b>Teddy</b>",
+          "person2": "<b>Lilsun</b>",
+          "person3": "<b>Daniel Velev</b>",
+          "person4": "<b>Krasi</b>",
+          "subtitle1": "BUSINESS CONSULTANT",
+          "subtitle2": "HUMAN DESIGN",
+          "subtitle3": "FOUNDER &amp; CEO",
+          "subtitle4": "TECHNICAL SUPPORT",
+          "caption1": "Inspire people to be extraordinary",
+          "caption2": "Recognise and build strong teams",
+          "caption3": "Prototypes, Product Development, Remote Teams Management",
           "caption4": "PrestaShop, IBM Notes and Documentum Consultant",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -958,7 +966,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cropped-1-600x633.jpg",
+              "src": "@PROJECT_PATH@/assets/images/teodora-1789-edit-1-600x900.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -969,7 +977,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-2-600x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/47109541-2556938847655381-4462341531574992896-n-1-600x900.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -980,7 +988,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/d575aa958e3a3b96003b9578ca5360dc-3-334x500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cropped-1-600x633.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1004,17 +1012,17 @@
             "Theme"
           ],
           "_name": "team1",
-          "_anchor": "team1-v"
+          "_anchor": "team1-14"
         },
         {
           "_params": {
             "showTitle": false,
             "showSubtitle": false,
             "rows": "2",
-            "bgItem1": "#f5f5f5",
-            "bgItem2": "#ffc80a",
-            "bgItem3": "#d2dde4",
-            "bgItem4": "#212121",
+            "bgItem1": "#34495e",
+            "bgItem2": "#f17d0f",
+            "bgItem3": "#dddddd",
+            "bgItem4": "#34495e",
             "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -1032,18 +1040,18 @@
           },
           "title": "Our Team",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "Teddy",
-          "person2": "Lili",
-          "person3": "Vasil / Galin",
+          "person1": "<b>Vasil</b>",
+          "person2": "Victoria",
+          "person3": "Mina",
           "person4": "Maya",
-          "subtitle1": "Business Consultant",
-          "subtitle2": "HUMAN DESIGN",
-          "subtitle3": "MARKETING",
-          "subtitle4": "COORDINATOR",
-          "caption1": "Inspire people to be extraordinary",
-          "caption2": "Recognise and build strong teams.",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "subtitle1": "Marketing",
+          "subtitle2": "Human Resources",
+          "subtitle3": "Graphical Designer",
+          "subtitle4": "Coordinator",
+          "caption1": "Marketing Strategy, Social Media Communications",
+          "caption2": "Psychological assessments, candidate and employee strengths recognition and motivatation<br>",
+          "caption3": "Graphical designer, Visual Representations",
+          "caption4": "General Questions, Documents, Customers",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -1051,7 +1059,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/teodora-1789-edit-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4ec181c23f5afe876399d38a833607ca-3-564x1001.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1062,7 +1070,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/47109541-2556938847655381-4462341531574992896-n-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/53552194-2269591399991058-4798791329465237504-n-3-353x520.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1073,15 +1081,18 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/30705235-10213934068484257-5126728553714417664-o-2-600x798.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/eyecontact-2-460x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/53728833-988816938175429-5265336592989421568-n-366x371.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1094,7 +1105,12 @@
             "Theme"
           ],
           "_name": "team1",
-          "_anchor": "team1-w"
+          "_anchor": "team1-v",
+          "_styles": {
+            ".title1 B": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },

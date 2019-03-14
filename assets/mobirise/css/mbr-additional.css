@@ -789,6 +789,13 @@ blockquote {
   color: #93a3a7;
   font-style: italic;
 }
+#header1-6 .mbr-section-text B {
+  color: #ffffff;
+  font-size: 18px;
+}
+#header1-6 .mbr-section-title {
+  font-size: 84px;
+}
 #features3-f .mbr-section-title {
   font-weight: 700;
 }
@@ -1012,6 +1019,9 @@ blockquote {
 }
 #footer2-l .mbr-section-text {
   color: #fff;
+}
+#team1-v .title1 B {
+  color: #ffffff;
 }
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
