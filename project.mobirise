@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.eurion.solutions",
-    "currentPage": "index.html",
+    "currentPage": "team.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -176,7 +176,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "Eurion Solutions<br>",
-          "text": "<p></p><p><b><br>GENUINE REMOTE DEVELOPMENT</b><br></p>",
+          "text": "<p></p><p><b><br>GENUINE IT DEVELOPMENT</b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"assets/files/Business%20Concept%20Outline.pdf\" data-toolbar=\"-mbrBtnMove\">learn more</a> ",
           "alias": "colorm/components",
           "_tags": [
@@ -798,7 +798,7 @@
           },
           "title": "Our Team",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "<b>Vasil</b>",
+          "person1": "<b>Nadia</b>",
           "person2": "Victoria",
           "person3": "Mina",
           "person4": "Maya",
@@ -817,7 +817,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/4ec181c23f5afe876399d38a833607ca-3-564x1001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/54434549-1010174039181438-4379755954787319808-n-1-280x373.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -828,7 +828,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/53552194-2269591399991058-4798791329465237504-n-3-353x520.jpg",
+              "src": "@PROJECT_PATH@/assets/images/53552194-2269591399991058-4798791329465237504-n-5-353x520.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
