@@ -151,18 +151,19 @@
               "text-align": "center"
             },
             ".mbr-section-text P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "buttonAlign": "right",
+            "buttonAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/master-2000-2000x1376.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
             "bgVideoRadio": false,
