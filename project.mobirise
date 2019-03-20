@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.eurion.solutions",
-    "currentPage": "team.html",
+    "currentPage": "signup.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -296,15 +296,15 @@
           "title2": "Responsive",
           "subtitle2": "CONSULTING",
           "caption2": "Best architecture, design and technology choice for your case or problem.<br>",
-          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "title3": "Web Fonts",
           "subtitle3": "PROTOTYPeS",
           "caption3": "Bootstrap your idea with beautiful prototype for a quick feedback.",
-          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons3": "<a data-app-btn=\"true\" href=\"prototypes.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "title4": "Unlimited Sites",
           "subtitle4": "INTERVIEWes",
           "caption4": "Our experts conduct technical interviews for your project or company.",
-          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons4": "<a data-app-btn=\"true\" href=\"interviews.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2003,12 +2003,55 @@
         }
       ]
     },
-    "page10.html": {
+    "signup.html": {
       "settings": {
-        "title": "Register",
+        "title": "Sign Up",
         "order": 1
       },
       "components": [
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showHeader": false,
+            "showHeaderText": false,
+            "showSubtitles": true,
+            "showTitles": false,
+            "showText": true,
+            "showButtons": false,
+            "activeColor": "#fff",
+            "themeColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/06.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#e67e22",
+            "overlayOpacity": "0.6"
+          },
+          "header": "Ready to get started?",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, fuga ut reprehenderit eum, blanditiis ab obcaecati eaque dicta enim architecto.",
+          "subtitle1": "<b>COMPANIES</b>",
+          "subtitle2": "RECRUITMENT AGENCIES",
+          "title1": "Mobirise builder",
+          "title2": "Free website builder",
+          "text1": "Pay only per hire our team members<br>Request a consultance, prototype or&nbsp;&nbsp;technical Interviews&nbsp;",
+          "text2": "Get notified on certain position and conditions. Receive a bonus from us.<br><br>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call7",
+          "_anchor": "call7-1o"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2258,49 +2301,6 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-1p"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showHeader": false,
-            "showHeaderText": false,
-            "showSubtitles": true,
-            "showTitles": false,
-            "showText": true,
-            "showButtons": false,
-            "activeColor": "#fff",
-            "themeColor": "@primaryColor",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/06.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#e67e22",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#e67e22",
-            "overlayOpacity": "0.6"
-          },
-          "header": "Ready to get started?",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, fuga ut reprehenderit eum, blanditiis ab obcaecati eaque dicta enim architecto.",
-          "subtitle1": "<b>COMPANIES</b>",
-          "subtitle2": "RECRUITMENT AGENCIES",
-          "title1": "Mobirise builder",
-          "title2": "Free website builder",
-          "text1": "Pay only per hire our team members<br>Request a consultance, prototype or&nbsp;&nbsp;technical Interviews&nbsp;",
-          "text2": "Get notified on certain position and conditions. Receive a bonus from us.<br><br>",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
-          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "call7",
-          "_anchor": "call7-1o"
         }
       ]
     }
