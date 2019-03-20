@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.eurion.solutions",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 56,
+    "uniqCompNum": 63,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -177,7 +177,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "Eurion Solutions<br>",
           "text": "<p></p><p><b><br>GENUINE REMOTE DEVELOPMENT<br></b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"assets/files/Business%20Concept%20Outline.pdf\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"assets/files/Business%20Concept%20Outline.pdf\" data-toolbar=\"-mbrBtnMove\">learn more</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -553,7 +553,7 @@
     "team.html": {
       "settings": {
         "title": "Team",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -875,7 +875,7 @@
     "services.html": {
       "settings": {
         "title": "Services",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1001,7 +1001,7 @@
     "products.html": {
       "settings": {
         "title": "Products",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1127,7 +1127,7 @@
     "jobs.html": {
       "settings": {
         "title": "Jobs",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1253,7 +1253,7 @@
     "hire.html": {
       "settings": {
         "title": "Hire",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1393,7 +1393,7 @@
     "page6.html": {
       "settings": {
         "title": "Consulting",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1533,7 +1533,7 @@
     "prototypes.html": {
       "settings": {
         "title": "Prototypes",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1673,7 +1673,7 @@
     "interviews.html": {
       "settings": {
         "title": "Interviews",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
     "roadmap.html": {
       "settings": {
         "title": "Roadmap",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2000,6 +2000,307 @@
           ],
           "_name": "features9",
           "_anchor": "features9-1j"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "title": "Register",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-6\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#news1-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-c\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page4.html\">SIGN UP</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/eurion-logo-final-w-128x128.png",
+              "height": 128,
+              "alt": "Eurion Solutions",
+              "link": "https://www.eurion.solutions",
+              "title": "Eurion Solutions"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EURION SOLUTIONS</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 <a href=\"http://mobirise.com\">Eurion Consulting EOOD</a>.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-1l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2dde4",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "title": "Register Now",
+          "subtitle": "GET INSTANT Access to THE full WEBSITE featureS",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN UP</a>",
+          "form": {
+            "action": "apply@eurion.solutions",
+            "alerts": {
+              "success": "Thank you! We are going to send you update when all the feature of the System are IN."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "popular",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#27ae60",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Package Plans",
+          "subtitle": " We also provide packages on a monthly basis",
+          "title1": "STARTER",
+          "title2": "BUSINESS",
+          "title3": "PREMIUIM",
+          "title4": "ULTIMATE PLAN",
+          "label1": "POPULAR",
+          "label2": "POPULAR",
+          "label3": "POPULAR",
+          "label4": "POPULAR",
+          "currency1": "€",
+          "currency2": "€",
+          "currency3": "€",
+          "currency4": "$",
+          "price1": "29",
+          "price2": "196",
+          "price3": "280",
+          "price4": "190",
+          "period1": "/mo",
+          "period2": "/mo",
+          "period3": "/mo",
+          "period4": "/mo",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>2</b> Interviews</li><li class=\"list-group-item\"><b>1</b> Consultance</li><li class=\"list-group-item\">Try It Free for 30 days</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5</b> Interviews</li><li class=\"list-group-item\"><b>2</b> Consultance</li><li class=\"list-group-item\"><b>Team Pool Access</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>10</b> Interviews</li><li class=\"list-group-item\"><b>3</b> Consultance</li><li class=\"list-group-item\"><b>5%</b>&nbsp;Discount on Hire Rates</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Projects</li><li class=\"list-group-item\"><b>Unlimited</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.me/eur10n\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.me/eur10n\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.me/eur10n\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBSCRIBE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-1p"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showHeader": false,
+            "showHeaderText": false,
+            "showSubtitles": true,
+            "showTitles": false,
+            "showText": true,
+            "showButtons": false,
+            "activeColor": "#fff",
+            "themeColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/06.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#e67e22",
+            "overlayOpacity": "0.6"
+          },
+          "header": "Ready to get started?",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, fuga ut reprehenderit eum, blanditiis ab obcaecati eaque dicta enim architecto.",
+          "subtitle1": "<b>COMPANIES</b>",
+          "subtitle2": "RECRUITMENT AGENCIES",
+          "title1": "Mobirise builder",
+          "title2": "Free website builder",
+          "text1": "Pay only per hire our team members<br>Request a consultance, prototype or&nbsp;&nbsp;technical Interviews&nbsp;",
+          "text2": "Get notified on certain position and conditions. Receive a bonus from us.<br><br>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call7",
+          "_anchor": "call7-1o"
         }
       ]
     }
