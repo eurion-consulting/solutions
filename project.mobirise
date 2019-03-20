@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.eurion.solutions",
-    "currentPage": "page10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -151,7 +151,7 @@
               "text-align": "center"
             },
             ".mbr-section-text P": {
-              "color": "#ffffff",
+              "color": "#eeeeee",
               "text-align": "center"
             }
           },
