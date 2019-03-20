@@ -147,7 +147,11 @@
               "font-size": "18px"
             },
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "60px",
+              "text-align": "center"
+            },
+            ".mbr-section-text P": {
+              "color": "#ffffff"
             }
           },
           "_params": {

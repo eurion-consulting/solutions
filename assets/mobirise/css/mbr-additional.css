@@ -794,7 +794,11 @@ blockquote {
   font-size: 18px;
 }
 #header1-6 .mbr-section-title {
-  font-size: 72px;
+  font-size: 60px;
+  text-align: center;
+}
+#header1-6 .mbr-section-text P {
+  color: #ffffff;
 }
 #features3-f .mbr-section-title {
   font-weight: 700;
