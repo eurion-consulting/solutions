@@ -163,7 +163,7 @@
             "showArrow": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/master-2000-2000x1376.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
             "bgVideoRadio": false,
