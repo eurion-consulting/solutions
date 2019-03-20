@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.eurion.solutions",
-    "currentPage": "index.html",
+    "currentPage": "team.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -705,8 +705,8 @@
           "subtitle4": "TECHNICAL SUPPORT",
           "caption1": "Inspire people to be extraordinary",
           "caption2": "Recognise and build strong teams",
-          "caption3": "Prototypes, Product Development, Remote Teams Management",
-          "caption4": "PrestaShop, IBM Notes and Documentum Consultant",
+          "caption3": "Prototypes, Product Development, Remote Teams Management<br><br><br><br><i><b>email /</b></i>&nbsp;<i><b>phone</b></i><i><b><br></b></i>",
+          "caption4": "PrestaShop, IBM Notes and Documentum Consultant<br><br><br><br><br>email | phone",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -760,7 +760,12 @@
             "Theme"
           ],
           "_name": "team1",
-          "_anchor": "team1-14"
+          "_anchor": "team1-14",
+          "_styles": {
+            ".text3": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
