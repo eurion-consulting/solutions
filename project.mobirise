@@ -319,9 +319,9 @@
           "_styles": {},
           "_params": {
             "showTitles": true,
-            "showText": true,
+            "showText": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
             "parallax": false,
@@ -335,9 +335,9 @@
             "overlayColor": "#2c2c2c",
             "overlayOpacity": 0.75
           },
-          "title": "Where are we...",
+          "title": "scorecard",
           "text": "Our statistics till now...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "subtitle1": "Views",
           "subtitle2": "CUSTOMERS",
           "subtitle3": "TEAM SIZE",
